@@ -1,14 +1,24 @@
 {
   "sections": {
     "main": {
-      "type": "page-template"
+      "type": "page-template",
+      "settings": {
+      }
     },
     "contact-form": {
-      "type": "contact-form"
+      "type": "contact-form",
+      "settings": {
+      }
+    },
+    "custom_form_8zH3x6": {
+      "type": "custom-form",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
-    "contact-form"
+    "contact-form",
+    "custom_form_8zH3x6"
   ]
 }
